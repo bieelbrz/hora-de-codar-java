@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db2c9c87-3fcf-46c2-8d59-a854cb3dc45d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hora-de-codar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio6ponto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio7ponto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2iOaDcsiq1pYDOIBgjfqAP2NyRv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.exercicio1.executor": "Run",
+    "Application.exercicio11.executor": "Run",
+    "Application.exercicio2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Aluno/IdeaProjects/hora-de-codar/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.exercicio11">
+    <configuration name="exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio1" />
+      <module name="hora-de-codar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio11" />
+      <module name="hora-de-codar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio2" />
+      <module name="hora-de-codar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.exercicio11" />
+        <item itemvalue="Application.exercicio2" />
+        <item itemvalue="Application.exercicio1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db2c9c87-3fcf-46c2-8d59-a854cb3dc45d" name="Changes" comment="" />
+      <created>1719363962904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719363962904</updated>
+    </task>
+    <servers />
+  </component>
+</project>
