@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db2c9c87-3fcf-46c2-8d59-a854cb3dc45d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hora-de-codar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio6ponto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio7ponto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio9.java" afterDir="false" />
-    </list>
+    <list default="true" id="db2c9c87-3fcf-46c2-8d59-a854cb3dc45d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +36,7 @@
     "Application.exercicio11.executor": "Run",
     "Application.exercicio2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Aluno/IdeaProjects/hora-de-codar/src/Main.java"
   }
